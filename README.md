@@ -1,6 +1,9 @@
 # adventofcode
  
 ## 2024
+All the code for this year's will be done in Golang.
+I chose Golang because I wanted to refresh my memory of Golang and get more familiar with using it.
+
 1) Part 1:
 - given two arrays of equal length separated by spaces in input text file
 - sort them ascending
